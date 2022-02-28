@@ -1,0 +1,16 @@
+segment_sources:
+  P40C5FFA9:
+    type: origin_type
+    relation: translation
+    language: en
+  P159B1A21:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0ba1a9399a9845c4b59f5498a656a686:
+    P40C5FFA9: b75df4e902b24b73b600c9d77929f379
+    P159B1A21: 13cadd8c7f474992b9a347bacee3a0c7
+  0e7eccbf6b604b899350eb999acfdcbc:
+    P40C5FFA9: 329065421bf546c58b3c305469c55dc2
+    P159B1A21: b0158ba9dfdf46f888a0d7f2b61a6fba
